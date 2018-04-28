@@ -3,6 +3,10 @@ img {
 	margin: 20px auto;
 }
 
+img.rocket {
+	cursor: pointer;
+}
+
 body {
 	background-image: url(image/nen.jpg);
 	background-size: cover;
